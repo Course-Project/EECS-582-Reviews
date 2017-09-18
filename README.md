@@ -1,4 +1,4 @@
-EECS 582 Paper Reviews
+EECS 582 Advanced Operating Systems, Paper Reviews
 ===
 
 - [Course Homepage](http://www.bariskasikci.org/teaching/)
