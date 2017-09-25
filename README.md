@@ -17,6 +17,6 @@ UMich EECS 582: Advanced Operating Systems - Paper Reviews
 |:-------:|:-------|:---:|
 |[9.13.md](https://github.com/h1994st/EECS-582-Reviews/blob/master/9.13.md)|[End-to-end Arguments in System Design](http://web.eecs.umich.edu/~barisk/teaching/eecs582/end-to-end.pdf)|2017.09.12 23:59|
 |[9.18.md](https://github.com/h1994st/EECS-582-Reviews/blob/master/9.18.md)|[Exokernel](http://web.eecs.umich.edu/~barisk/teaching/eecs582/exokernel.pdf)|2017.09.17 23:59|
-||[The Locality Principle](http://web.eecs.umich.edu/~barisk/teaching/eecs582/locality.pdf)|__2017.09.24 23:59__|
+|_Miss_|[The Locality Principle](http://web.eecs.umich.edu/~barisk/teaching/eecs582/locality.pdf)|2017.09.24 23:59|
 ||[Optimizations for Improving Data Locality](http://web.eecs.umich.edu/~barisk/teaching/eecs582/compiler-optimizations-locality.pdf)|__(Presentation)__|
 ||[AutoFDO](http://web.eecs.umich.edu/~barisk/teaching/eecs582/autofdo.pdf)|__2017.09.26 23:59__|
