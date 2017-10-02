@@ -21,7 +21,7 @@ UMich EECS 582: Advanced Operating Systems - Paper Reviews
 |_(Done)_|[Optimizations for Improving Data Locality](http://web.eecs.umich.edu/~barisk/teaching/eecs582/compiler-optimizations-locality.pdf)|(Presentation)|
 |[9.27.md](https://github.com/h1994st/EECS-582-Reviews/blob/master/9.27.md)|[AutoFDO](http://web.eecs.umich.edu/~barisk/teaching/eecs582/autofdo.pdf)|2017.09.26 23:59|
 |[9.29.md](https://github.com/h1994st/EECS-582-Reviews/blob/master/9.29.md)|[Magpie](http://web.eecs.umich.edu/~barisk/teaching/eecs582/magpie.pdf)|2017.09.28 23:59|
-|[10.2.md](https://github.com/h1994st/EECS-582-Reviews/blob/master/10.2.md)|[Xen](http://web.eecs.umich.edu/~barisk/teaching/eecs582/xen.pdf)|__2017.10.01 23:59__|
+|[10.2.md](https://github.com/h1994st/EECS-582-Reviews/blob/master/10.2.md)|[Xen](http://web.eecs.umich.edu/~barisk/teaching/eecs582/xen.pdf)|2017.10.01 23:59|
 ||[IX](http://web.eecs.umich.edu/~barisk/teaching/eecs582/ix.pdf)|__2017.10.03 23:59__|
 ||[Mistakes](http://web.eecs.umich.edu/~barisk/teaching/eecs582/learning-from-mistakes.pdf)|__2017.10.08 23:59__|
 ||[Dynamo](http://web.eecs.umich.edu/~barisk/teaching/eecs582/dynamo.pdf)|__2017.10.10 23:59__|
