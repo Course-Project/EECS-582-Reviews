@@ -30,4 +30,3 @@ UMich EECS 582: Advanced Operating Systems - Paper Reviews
 ||[Diffie Hellman Fails](http://web.eecs.umich.edu/~barisk/teaching/eecs582/diffie-hellman-fail.pdf)|__2017.10.22 23:59__|
 ||[Control Flow Integrity](http://web.eecs.umich.edu/~barisk/teaching/eecs582/cfi.pdf)|__2017.10.22 23:59__|
 ||[Klee](http://web.eecs.umich.edu/~barisk/teaching/eecs582/klee.pdf)|__2017.10.24 23:59__|
-||[Sel4](http://web.eecs.umich.edu/~barisk/teaching/eecs582/sel4.pdf)|__2017.10.24 23:59__|
