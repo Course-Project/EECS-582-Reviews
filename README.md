@@ -25,7 +25,7 @@ UMich EECS 582: Advanced Operating Systems - Paper Reviews
 |[10.9.md](https://github.com/h1994st/EECS-582-Reviews/blob/master/10.9.md)|[Mistakes(\*)](http://web.eecs.umich.edu/~barisk/teaching/eecs582/learning-from-mistakes.pdf)|2017.10.08 23:59|
 |[10.11.md](https://github.com/h1994st/EECS-582-Reviews/blob/master/10.11.md)|[Dynamo](http://web.eecs.umich.edu/~barisk/teaching/eecs582/dynamo.pdf)|2017.10.10 23:59|
 |[10.18.md](https://github.com/h1994st/EECS-582-Reviews/blob/master/10.18.md)|[Microreboot](http://web.eecs.umich.edu/~barisk/teaching/eecs582/microreboot.pdf)|2017.10.17 23:59|
-|[10.20.md](https://github.com/h1994st/EECS-582-Reviews/blob/master/10.20.md)|[Delta Debugging](http://web.eecs.umich.edu/~barisk/teaching/eecs582/delta-debugging.pdf)|__2017.10.19 23:59__|
+|[10.20.md](https://github.com/h1994st/EECS-582-Reviews/blob/master/10.20.md)|[Delta Debugging](http://web.eecs.umich.edu/~barisk/teaching/eecs582/delta-debugging.pdf)|2017.10.19 23:59|
 ||[Diffie Hellman Fails](http://web.eecs.umich.edu/~barisk/teaching/eecs582/diffie-hellman-fail.pdf)|__2017.10.22 23:59__|
 ||[Klee](http://web.eecs.umich.edu/~barisk/teaching/eecs582/klee.pdf)|__2017.10.24 23:59__|
 ||[MapReduce](http://web.eecs.umich.edu/~barisk/teaching/eecs582/mapreduce.pdf)|__2017.11.12 23:59__|
