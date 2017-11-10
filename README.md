@@ -26,8 +26,8 @@ UMich EECS 582: Advanced Operating Systems - Paper Reviews
 |[10.11.md](https://github.com/h1994st/EECS-582-Reviews/blob/master/10.11.md)|[Dynamo](http://web.eecs.umich.edu/~barisk/teaching/eecs582/dynamo.pdf)|2017.10.10 23:59|
 |[10.18.md](https://github.com/h1994st/EECS-582-Reviews/blob/master/10.18.md)|[Microreboot](http://web.eecs.umich.edu/~barisk/teaching/eecs582/microreboot.pdf)|2017.10.17 23:59|
 |[10.20.md](https://github.com/h1994st/EECS-582-Reviews/blob/master/10.20.md)|[Delta Debugging](http://web.eecs.umich.edu/~barisk/teaching/eecs582/delta-debugging.pdf)|2017.10.19 23:59|
-|[10.23.md](https://github.com/h1994st/EECS-582-Reviews/blob/master/10.23.md)|[Diffie Hellman Fails](http://web.eecs.umich.edu/~barisk/teaching/eecs582/diffie-hellman-fail.pdf)|2017.10.22 23:59|
-|[11.10.md](https://github.com/h1994st/EECS-582-Reviews/blob/master/11.10.md)|[Klee](http://web.eecs.umich.edu/~barisk/teaching/eecs582/klee.pdf)|2017.11.09 23:59|
+|[10.23.md](https://github.com/h1994st/EECS-582-Reviews/blob/master/10.23.md)|[Diffie Hellman Fails(\*)](http://web.eecs.umich.edu/~barisk/teaching/eecs582/diffie-hellman-fail.pdf)|2017.10.22 23:59|
+|[11.10.md](https://github.com/h1994st/EECS-582-Reviews/blob/master/11.10.md)|[Klee(\*)](http://web.eecs.umich.edu/~barisk/teaching/eecs582/klee.pdf)|2017.11.09 23:59|
 |[11.13.md](https://github.com/h1994st/EECS-582-Reviews/blob/master/11.13.md)|[MapReduce](http://web.eecs.umich.edu/~barisk/teaching/eecs582/mapreduce.pdf)|__2017.11.12 23:59__|
 ||[Spanner](http://web.eecs.umich.edu/~barisk/teaching/eecs582/spanner.pdf)|__2017.11.14 23:59__|
 ||[TensorFlow](http://web.eecs.umich.edu/~barisk/teaching/eecs582/tensorflow.pdf)|__2017.11.19 23:59__|
