@@ -29,7 +29,7 @@ UMich EECS 582: Advanced Operating Systems - Paper Reviews
 |[10.23.md](https://github.com/h1994st/EECS-582-Reviews/blob/master/10.23.md)|[Diffie Hellman Fails(\*)](http://web.eecs.umich.edu/~barisk/teaching/eecs582/diffie-hellman-fail.pdf)|2017.10.22 23:59|
 |[11.10.md](https://github.com/h1994st/EECS-582-Reviews/blob/master/11.10.md)|[Klee(\*)](http://web.eecs.umich.edu/~barisk/teaching/eecs582/klee.pdf)|2017.11.09 23:59|
 |[11.13.md](https://github.com/h1994st/EECS-582-Reviews/blob/master/11.13.md)|[MapReduce(\*)](http://web.eecs.umich.edu/~barisk/teaching/eecs582/mapreduce.pdf)|2017.11.12 23:59|
-||[Spanner](http://web.eecs.umich.edu/~barisk/teaching/eecs582/spanner.pdf)|__2017.11.14 23:59__|
+|_(Missed)_|[Spanner](http://web.eecs.umich.edu/~barisk/teaching/eecs582/spanner.pdf)|2017.11.14 23:59|
 ||[TensorFlow](http://web.eecs.umich.edu/~barisk/teaching/eecs582/tensorflow.pdf)|__2017.11.19 23:59__|
 ||[Barrelfish](http://web.eecs.umich.edu/~barisk/teaching/eecs582/barrelfish.pdf)|__2017.11.26 23:59__|
 ||[Dandelion](http://web.eecs.umich.edu/~barisk/teaching/eecs582/dandelion.pdf)|__2017.11.28 23:59__|
